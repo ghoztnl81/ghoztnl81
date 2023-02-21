@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ferdy van den Berg (@ghoztnl81)
 - 👀 I’m interested in Web & Container Architecture
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning React & K8S.
 
 - 📫 How to reach me:
 
